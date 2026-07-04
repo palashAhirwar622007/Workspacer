@@ -36,7 +36,7 @@ Tired of opening the same 5 applications every time you sit down to code, game, 
 **1. Clone the repository:**
 
 ```bash
-git clone [https://github.com/YOUR-USERNAME/workspacer.git](https://github.com/palashAhirwar622007/workspacer.git)
+git clone [https://github.com/palashAhirwar622007/workspacer.git](https://github.com/palashAhirwar622007/workspacer.git)
 cd workspacer
 ```
 
