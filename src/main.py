@@ -105,7 +105,6 @@ def checkSavedWorkspace():
     option = quest.select(message="",choices=choices).ask()
 
     savedWorkpaces = getAllWorkspaces()
-    print(savedWorkpaces)
     if option == choices[0]:
         if(len(savedWorkpaces) > 0):
             # print("previous saved workspace exists. Do you wish to..\n")
