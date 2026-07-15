@@ -31,7 +31,7 @@ def printWorkspace(workspace_name):
 
 
 def saveWorkspace(app_names, app_paths):
-    workspaceName = input("Enter Name of workspace").strip()
+    workspaceName = input("Enter Name of workspace: ").strip()
 
     filepath = os.path.join(SAVES_DIRECTORY, f"{workspaceName}.txt")
 
